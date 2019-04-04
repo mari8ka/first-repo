@@ -1,2 +1,2 @@
 # first-repo
-First GIT project
+i love cats
